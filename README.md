@@ -48,7 +48,7 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 ## 🏆 **Leaderboard System:**
 
  After each game over, players can **Enter their name**.
- The top 5 scores are stored in `localStorage` and displayed under **🏆 Leaderboard**.
+ The top 5 scores are stored in `localStorage` and displayed under ** Leaderboard**.
  
  Scores persist across browser sessions.
 ***
