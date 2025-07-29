@@ -34,11 +34,12 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
    * Avoid walls and your own tail!
 ***
 
-📸 **Screenshots**
-**Home Interface**
+📸 **Screenshots:**
+
+**Home Interface:**
 ![image alt](https://github.com/Git-Hub-dot/Snake-Game-Project/blob/a4884b1d5f8e1cad77e626a766f7dda340485417/Home%20Interface.png)
 
-**During Gameplay**
+**During Gameplay:**
 ![image alt](https://github.com/Git-Hub-dot/Snake-Game-Project/blob/3e9ac9525eccc660aa091c1a2a1ba3f3e764ba4b/Game%20On.png)
 ***
 
