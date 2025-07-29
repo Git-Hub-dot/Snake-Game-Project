@@ -1,8 +1,8 @@
-🐍 <u>**Snake Game Project by Saroj Dhital**</u>
+## 🐍 <u>**Snake Game Project by Saroj Dhital**</u>
 
 This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, CSS, and JavaScript**, with a **local leaderboard system** using `localStorage`. The project is lightweight, responsive, and fun to play, with a neon-style theme and real-time scoring.
 ***
-🎮 **Features:**
+## 🎮 **Features:**
 - 🎨 Neon-themed modern UI design
 - 🧠 Smooth keyboard-based movement
 - 🍎 Randomly placed food items
@@ -10,14 +10,14 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 - 🏆 Top-5 Leaderboard stored in browser's `localStorage`
 - 🛑 Game over alert with score summary
 ***
-🧱 **Technologies Used:**
+## 🧱 **Technologies Used:**
         
 - HTML5 (Structure and layout)       
 - CSS3 (Styling and animation)      
 - JavaScript (Game logic & interaction)   
 - LocalStorage (Persistent leaderboard)  
 ***
-🖥️ **How to Run Locally:**
+## 🖥️ **How to Run Locally:**
 
 1. **Clone or Download the Project**
    git clone https://github.com/yourusername/snake-game-html.git
@@ -34,7 +34,7 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
    * Avoid walls and your own tail!
 ***
 
-📸 **Screenshots:**
+## 📸 **Screenshots:**
 
 **Home Interface**
 ![image alt](https://github.com/Git-Hub-dot/Snake-Game-Project/blob/a4884b1d5f8e1cad77e626a766f7dda340485417/Home%20Interface.png)
@@ -44,7 +44,7 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 ***
 
 
-🏆 **Leaderboard System:**
+## 🏆 **Leaderboard System:**
 
  After each game over, players can **Enter their name**.
  The top 5 scores are stored in `localStorage` and displayed under **🏆 Leaderboard**.
