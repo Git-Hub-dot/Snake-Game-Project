@@ -44,15 +44,16 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 
  After each game over, players can **Enter their name**.
  The top 5 scores are stored in `localStorage` and displayed under **🏆 Leaderboard**.
+ 
  Scores persist across browser sessions.
-
+***
 ## 💡 Future Enhancements (Ideas)
 
 * ⏱️ Add difficulty levels (Easy, Medium, Hard)
 * 🔊 Sound effects and music
 * 📱 Mobile touch control support
 * 🌐 Online multiplayer support
-
+***
 ## 🙌 Author
 
 **Saroj Dhital**
