@@ -10,14 +10,14 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 - 🏆 Top-5 Leaderboard stored in browser's `localStorage`
 - 🛑 Game over alert with score summary
 ***
-🧱 Technologies Used:
+🧱 **Technologies Used:**
         
 - HTML5 (Structure and layout)       
 - CSS3 (Styling and animation)      
 - JavaScript (Game logic & interaction)   
 - LocalStorage (Persistent leaderboard)  
 ***
-🖥️ **How to Run Locally**
+🖥️ **How to Run Locally:**
 
 1. **Clone or Download the Project**
    git clone https://github.com/yourusername/snake-game-html.git
@@ -36,22 +36,22 @@ This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, C
 
 📸 **Screenshots:**
 
-**Home Interface:**
+**Home Interface**
 ![image alt](https://github.com/Git-Hub-dot/Snake-Game-Project/blob/a4884b1d5f8e1cad77e626a766f7dda340485417/Home%20Interface.png)
 
-**During Gameplay:**
+**During Gameplay**
 ![image alt](https://github.com/Git-Hub-dot/Snake-Game-Project/blob/3e9ac9525eccc660aa091c1a2a1ba3f3e764ba4b/Game%20On.png)
 ***
 
 
-🏆 **Leaderboard System**
+🏆 **Leaderboard System:**
 
  After each game over, players can **Enter their name**.
  The top 5 scores are stored in `localStorage` and displayed under **🏆 Leaderboard**.
  
  Scores persist across browser sessions.
 ***
-## 💡 Future Enhancements (Ideas)
+## 💡 Future Enhancements(Ideas):
 
 * ⏱️ Add difficulty levels (Easy, Medium, Hard)
 * 🔊 Sound effects and music
