@@ -1,5 +1,5 @@
 <u><lu>
-## 🐍 <u>**Snake Game Project by Saroj Dhital**</u>
+## 🐍 <u>**Snake Game Project by Saroj Dhital**</u>🐍
 
 This is a simple, visually enhanced **2D Snake Game** built using **pure HTML, CSS, and JavaScript**, with a **local leaderboard system** using `localStorage`. The project is lightweight, responsive, and fun to play, with a neon-style theme and real-time scoring.
 ***
